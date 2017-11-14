@@ -68,6 +68,10 @@ a:active, a:visited, a:focus {
 	color: #fff;
 	border-color: #fff;
 }
+
+#butdown:visited{
+	color: white;
+}
 /*Секция с портфолио*/
 .portfolio {
 	padding: 10rem 0px;
